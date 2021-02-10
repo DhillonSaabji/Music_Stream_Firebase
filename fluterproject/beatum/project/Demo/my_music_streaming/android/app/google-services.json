@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "952572467825",
+    "project_id": "music-player1-501fe",
+    "storage_bucket": "music-player1-501fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952572467825:android:4ac251814dae7ce4d299d0",
+        "android_client_info": {
+          "package_name": "com.intnext.musica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2crVJlOWEwqLhWvVEY8D1n06OZaa1j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952572467825:android:218e3c15afc6e210d299d0",
+        "android_client_info": {
+          "package_name": "com.intnext.musicfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2crVJlOWEwqLhWvVEY8D1n06OZaa1j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952572467825:android:3a8c53cd29696d3ad299d0",
+        "android_client_info": {
+          "package_name": "com.intnext.musicfireadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2crVJlOWEwqLhWvVEY8D1n06OZaa1j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952572467825:android:450a223f2d1df3efd299d0",
+        "android_client_info": {
+          "package_name": "com.intnext.musico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2crVJlOWEwqLhWvVEY8D1n06OZaa1j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952572467825:android:011170776ec802a2d299d0",
+        "android_client_info": {
+          "package_name": "com.intnext.mymusicstreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2crVJlOWEwqLhWvVEY8D1n06OZaa1j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952572467825-mj1isbttborf7ctur6r0cbmecaslf5a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
